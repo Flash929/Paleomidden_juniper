@@ -10,8 +10,7 @@ type: software
 authors:
   - given-names: Lisa Garcia
     email: lgarcia491@unm.edu
-    name-particle: Lisa
-    family-names: Garcia
+
 repository-code: 'https://github.com/Flash929/Paleomidden_juniper'
 url: 'https://github.com/'
 abstract: >-
