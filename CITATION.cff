@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Paleomidden_juniper
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lisa Garcia
+    email: lgarcia491@unm.edu
+    name-particle: Lisa
+    family-names: Garcia
+repository-code: 'https://github.com/Flash929/Paleomidden_juniper'
+url: 'https://github.com/'
+abstract: >-
+  Scripts that analyzed carbon and nitrogen stable isotopic
+  composition from paleomidden and modern juniper leaves.
+keywords:
+  - stable isotopes
+  - juniper
+license: Apache-2.0
